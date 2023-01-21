@@ -41,14 +41,17 @@ def max_marks(marks):
 
 ## Output:
 i)
+file:///home/sec/FindMaximum/img/max_marks1.jpg![image](https://user-images.githubusercontent.com/119875375/213873607-b823274f-8fc0-4bb2-bcc6-0586babd3f4d.png)
 
 ![Output](./img/sort%20program.png)
 
 ii)
+file:///home/sec/Pictures/Screenshots/def%20function.png![image](https://user-images.githubusercontent.com/119875375/213873582-e128bfce-6389-4e6b-89a8-5a108cc8b149.png)
 
 ![Output](./img/max.png)
 
 iii)
+file:///home/sec/FindMaximum/img/Screenshot%20from%202023-01-14%2009-07-28.png![image](https://user-images.githubusercontent.com/119875375/213873619-e7bb2537-08fd-4a57-925b-35c683e95445.png)
 
 ![Output](./img/bullitten%20program.png)
 ## Result:
