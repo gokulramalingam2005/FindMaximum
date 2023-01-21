@@ -38,25 +38,6 @@ def max_marks(marks):
     large=max(marks)
     return large
 ```
-## Sample Input and Output
-i)
-
-![output](./img/max_marks1.jpg) 
-![output](./img/max_marks2.jpg)
-
-ii)
-
-![output](./img/def.png)
-![output](./img/Screenshot%20from%202023-01-14%2009-02-32.png)
-
-iii)
-
-
-
-
-
-![output](./img/Screenshot%20from%202023-01-14%2009-07-28.png)
-![output](./img/Screenshot%20from%202023-01-14%2009-08-33.png)
 
 ## Output:
 i)
